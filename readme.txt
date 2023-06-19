@@ -1,2 +1,3 @@
 hello git
-modify file
+modify file 1
+modify file 2
