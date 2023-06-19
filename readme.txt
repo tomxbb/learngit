@@ -6,3 +6,5 @@ creating a new branch is quick & simple
 swithc to a new branch 'feature1'
 master update
 add a phrase by feature1
+
+new stategy by dev
