@@ -8,3 +8,5 @@ master update
 add a phrase by feature1
 
 new stategy by dev
+
+test multiperson operation
